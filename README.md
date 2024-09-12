@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jsm1306
+- 👋 Hi, I’m Sindhu; currently pursuing my 2nd year as ug (@jsm1306)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Django Framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: she
-- ⚡ Fun fact: ...
 
 <!---
 jsm1306/jsm1306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
