@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=jsm1306)
 
 - 👋 Hi, I’m Sindhu; currently pursuing my 2nd year as ug (@jsm1306)
 - 👀 I’m interested in web development
