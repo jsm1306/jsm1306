@@ -2,7 +2,6 @@
 - 👋 Hi, I’m Sindhu; currently pursuing my 2nd year as ug (@jsm1306)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Django Framework
-- 😄 Pronouns: she
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsm1306&show_icons=true)
 <!---
